@@ -1,2 +1,3 @@
 # MyAcademicPortfolio
-Storing Files and codes for Academic purposes only.
+Used for storing files and codes
+For Academic purposes only.
